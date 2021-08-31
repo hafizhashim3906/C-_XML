@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<bookstore>
+	<category name= "cooking">
+		<book>
+			<title>Everyday Italian</title>
+			<author>Giada De Laurentiis</author>
+			<year>2005</year>
+			<price>30.00</price>
+		</book>
+	</category>
+	<category name= "children">
+		<book>
+			<title>Harry Potter</title>
+			<author>J K. Rowling</author>
+			<year>2005</year>
+			<price>29.99</price>
+		</book>
+	</category>
+	<category name= "web">
+		<book>
+			<title>XQuery Kick Start</title>
+			<author>James McGovern</author>
+			<year>2003</year>
+			<price>49.99</price>
+		</book>
+		<book>
+			<title>Learning XML</title>
+			<author>Erik T. Ray</author>
+			<year>2003</year>
+			<price>39.95</price>
+		</book>
+	</category>
+</bookstore>
